@@ -4,7 +4,7 @@ This is done using python selenium.
 Requirements:
 1)Selenium
 2)Chrome webdriver
-3)whatsapp account
+3)Whatsapp account
 
 Step1: Install Selenium
 
